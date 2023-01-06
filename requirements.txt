@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+textblob
+tweepy
+matplotlib
+seaborn
+streamlit_lottie
+wordcloud
+requests
+
+
+
+
